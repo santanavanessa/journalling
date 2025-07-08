@@ -18,9 +18,3 @@ Este é um projeto simples de diário pessoal em HTML e CSS, criado com o objeti
 
 - **HTML5**  
 - **CSS3**  
-
----
-
-## 📎 Licença
-
-Este projeto está licenciado sob a MIT License.
